@@ -62,9 +62,9 @@ To get started with the notebooks, follow these steps:
 ## Notebooks
 
 Here is a list of the available notebooks:
-<!-- xx = vafaei-ar/DSWSs/blob/master/S04/notebooks/SS01-01.ipynb -->
-1. [Week 2](https://github.com/xx) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xx)
-2. Week 3
+<!-- xx = vafaei-ar/DSWSs/blob/master/S04/notebooks/SS01-01.ipynb TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-2.ipynb--> 
+1. [Week 2](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-2.ipynb)
+2. [Week 3](https://github.com/xx) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xx)
 ...
 
 ## Contributing
