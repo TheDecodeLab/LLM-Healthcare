@@ -66,7 +66,7 @@ Here is a list of the available notebooks:
 1. [Week 2](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-2.ipynb)
 2. [Week 3](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-3.ipynb)
 3. [Week 4](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-4.ipynb)
-4. [Week 4](https://github.com/xx) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xx)
+4. [Week 5](https://github.com/xx) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xx)
 ...
 
 ## Contributing
