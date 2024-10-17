@@ -68,8 +68,9 @@ Here is a list of the available notebooks:
 3. [Week 4](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-4.ipynb)
 4. [Week 5](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-5.ipynb)
 5. [Week 6](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-6.ipynb)
-5. [Week 7](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-7.ipynb)
-6. [Week 8](https://github.com/xx) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xx)
+6. [Week 7](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-7.ipynb)
+7. [Week 8](https://github.com/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-8.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheDecodeLab/LLM-Healthcare/blob/master/notebooks/week-8.ipynb)
+8. [Week 9](https://github.com/xx) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xx)
 ...
 
 ## Contributing
